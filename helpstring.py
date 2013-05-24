@@ -1,5 +1,6 @@
 helpstring = """
-/home/josh
+$HOME
+This is your home directory where fun stuff happens.
 /
 Primary hierarchy root and root directory of the entire file system hierarchy.
 /bin

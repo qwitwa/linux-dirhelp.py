@@ -1,6 +1,6 @@
 helpstring = """
 $HOME
-This is your home directory where fun stuff happens.
+This is your home directory, it is your user space where you keep your personal files and other settings specific to you. In Unix, a user will be automatically placed into their home directory upon login. The ~user shorthand variable refers to a user's home directory (allowing the user to navigate to it from anywhere else in the filesystem, or use it in other Unix commands). The ~ (tilde character) shorthand command refers to that particular user's home directory.
 /
 Primary hierarchy root and root directory of the entire file system hierarchy.
 /bin
